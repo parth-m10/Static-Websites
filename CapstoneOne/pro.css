@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color: #011627;
+    border: 60px solid #2EC4B6;
+    color: white;
+    border-top: 0px;
+    margin: 0px;
+    
+}
+h2{
+    padding-bottom: 30px;
+}
+p{
+    padding-left: 20% ;
+    padding-right: 20% ;
+    padding-top: 15px ;
+    padding-bottom: 20px;
+}
+#txt{
+    border: 3px solid darkblue;
+    
+}
+#signn{
+    border-radius: 25px;
+    background-color: darkgoldenrod;
+    padding: 20px;
+    font-size: 1.5em;
+}
+.txt{
+    height: 25px;
+}
+#signn {
+    cursor: pointer;
+    text-decoration: none; /* No underline by default */
+}
+
+#signn:hover {
+    text-decoration: underline; /* Underline on hover */
+}
